@@ -30,7 +30,8 @@ Hello! I am **Salman Faris**, a passionate cybersecurity professional with hands
 
 ## Resume
 ## Resume
-[Download My Resume](Salman_Faris_Resume.pdf)
+[Download My Resume](./files/Salman_Faris_Resume.pdf)
+
 
 
 ## Contact
