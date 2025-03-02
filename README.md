@@ -29,7 +29,9 @@ Hello! I am **Salman Faris**, a passionate cybersecurity professional with hands
 - Scripting: **Python, Bash, PowerShell**  
 
 ## Resume
-[Upload your resume here]
+## Resume
+[Download My Resume](Salman_Faris_Resume.pdf)
+
 
 ## Contact
 - **GitHub:** [SALMANFARIS-SOCANALYST](https://github.com/SALMANFARIS-SOCANALYST)
